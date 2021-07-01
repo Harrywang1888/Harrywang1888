@@ -2,7 +2,7 @@ Hi there,
 
 My name is Harry, I am an aspiring data analyst. 
 
-I constantly look for interesting projects to tackle and expand my artillery in data wrangling and visualization. 
+I constantly look for interesting projects to tackle and expand my toolbox in data wrangling and visualization. 
 
 Apparently it is beneficial to have an online presence as an aspiring data analyst/scientist. 
 
